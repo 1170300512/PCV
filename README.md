@@ -1,13 +1,13 @@
 # PCV(Python3)
 Updated serveral files in the package (modified: print -> print())
-	modified:   PCV/classifiers/bayes.py
-	modified:   PCV/geometry/warp.py
-	modified:   PCV/imagesearch/imagesearch.py
-	modified:   PCV/localdescriptors/dsift.py
-	modified:   PCV/localdescriptors/sift.py
-	modified:   PCV/tools/imtools.py
-	modified:   PCV/tools/ncut.py
-	modified:   PCV/tools/ransac.py
+* PCV/classifiers/bayes.py
+* PCV/geometry/warp.py
+* PCV/imagesearch/imagesearch.py
+* PCV/localdescriptors/dsift.py
+* PCV/localdescriptors/sift.py
+* PCV/tools/imtools.py
+* PCV/tools/ncut.py
+* PCV/tools/ransac.py
 
 The original work is from jesolem:  https://github.com/jesolem/PCV
 ## About PCV
