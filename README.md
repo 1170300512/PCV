@@ -1,10 +1,11 @@
+# PCV(Python3)
 ## About PCV
 PCV is a pure Python library for computer vision based on the book "Programming Computer Vision with Python" by Jan Erik Solem. 
 
 More details on the book (and a pdf version of the latest draft) can be found at [programmingcomputervision.com](http://programmingcomputervision.com/).
 
-### Dependencies
-You need to have Python 2.6+ and as a minimum:
+### Dependencies（updated to python3)
+You need to have Python 3+:
 
 * [NumPy](http://numpy.scipy.org/)
 * [Matplotlib](http://matplotlib.sourceforge.net/)
